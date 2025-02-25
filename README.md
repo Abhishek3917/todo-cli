@@ -1,2 +1,5 @@
-# todo-cli
-cli based todo list
+- tested os 
+    - linux
+
+- development
+    - onprogress
